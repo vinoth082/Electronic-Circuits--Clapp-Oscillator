@@ -4,6 +4,8 @@ To simulate a Clapp Oscillator and to obtain the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+<img width="791" height="812" alt="image" src="https://github.com/user-attachments/assets/a7567567-ac68-4f3b-981f-5f62b9cd9b8f" />
+
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +41,9 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+35.	<img width="802" height="636" alt="image" src="https://github.com/user-attachments/assets/42693323-2661-4844-ba74-9dcd58138be6" />
+
 37.	## OUTPUTS:
+<img width="812" height="438" alt="image" src="https://github.com/user-attachments/assets/7992266d-4956-4353-93d4-70541c057548" />
 
 38.	## RESULT:
