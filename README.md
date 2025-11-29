@@ -47,3 +47,4 @@ PC with LT Spice software
 <img width="812" height="438" alt="image" src="https://github.com/user-attachments/assets/7992266d-4956-4353-93d4-70541c057548" />
 
 38.	## RESULT:
+![WhatsApp Image 2025-11-29 at 11 00 12_9f9497b0](https://github.com/user-attachments/assets/e4cd6130-bb2d-458f-a5bd-9d242282a0bf)
